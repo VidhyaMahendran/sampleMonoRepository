@@ -1,0 +1,3 @@
+[submodule "react_from_a_to_z"]
+	path = react_from_a_to_z
+	url = git@github.com:VidhyaMahendran/react_from_a_to_z.git
